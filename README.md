@@ -38,15 +38,8 @@ This project contains **10+ high-quality visualizations**, filters, and insights
 
 ---
 
-## 📦 Installation
 
-Clone the repository:
-
-```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
-
-## 📁 Project Structure
+# 📁 Project Structure
 📦 titanic-visualization
  ┣ 📜 Titanic_visualization.py
  ┗ 📜 README.md
