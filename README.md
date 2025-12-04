@@ -52,7 +52,7 @@ This dashboard is ideal for:
 - Exploratory data analysis (EDA)  
 - College assignments & mini-projects
 
-## 📸 Screenshot (Add your output screenshot here)
+## 📸 Screenshot
 
 <img width="806" height="866" alt="image" src="https://github.com/user-attachments/assets/7fa09974-c456-4005-ba25-e25c66b230e0" />
 <img width="739" height="854" alt="image" src="https://github.com/user-attachments/assets/ac7ca2b0-6aec-4b89-a5dd-ecab2799c675" />
