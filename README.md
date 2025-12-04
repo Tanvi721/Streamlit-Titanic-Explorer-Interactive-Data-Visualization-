@@ -56,6 +56,17 @@ This dashboard is ideal for:
 
 <img width="806" height="866" alt="image" src="https://github.com/user-attachments/assets/7fa09974-c456-4005-ba25-e25c66b230e0" />
 <img width="739" height="854" alt="image" src="https://github.com/user-attachments/assets/ac7ca2b0-6aec-4b89-a5dd-ecab2799c675" />
+<img width="752" height="830" alt="image" src="https://github.com/user-attachments/assets/cd39f5af-84cf-46f0-93ec-780b18c43ca3" />
+<img width="740" height="780" alt="image" src="https://github.com/user-attachments/assets/b96b8658-98e1-40da-a9bd-0379bf7eba16" />
+<img width="726" height="803" alt="image" src="https://github.com/user-attachments/assets/dc5a9895-8d5c-40ef-920b-b750bbab6ed9" />
+<img width="727" height="805" alt="image" src="https://github.com/user-attachments/assets/ffabc2a8-2b5f-4d3f-abbe-af756ebfc738" />
+<img width="642" height="740" alt="image" src="https://github.com/user-attachments/assets/bff19286-fb23-457c-ab7e-264e309d4ea1" />
+<img width="640" height="717" alt="image" src="https://github.com/user-attachments/assets/fefbca71-2383-4434-9da8-65d8490dc564" />
+
+
+
+
+
 
 
 
